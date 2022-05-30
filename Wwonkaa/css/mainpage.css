@@ -1,0 +1,94 @@
+div {
+
+    background-color: white;
+
+
+}
+
+#pagehead {
+
+    text-align: center;
+    font-size: large;
+    font-style: italic;
+    background-color: white;
+    font-size: 30px;
+    color: brown;
+
+}
+
+
+.mp{
+
+    text-align: center;
+
+
+
+}
+
+
+
+.singin {
+
+    text-align: right;
+    font-family: Arial, Helvetica, sans-serif;
+    border-right: 10px;
+
+}
+
+
+#maintool {
+
+    margin: auto 510px;
+    background-color:white;
+    font-style: italic;
+    outline-color: white;
+
+}
+
+
+#maintool>li {
+
+    display: inline;
+
+}
+
+
+.mainpagediv {
+
+
+    padding: 60px;
+    text-align: center;
+    color: darkcyan;
+
+
+}
+
+#productshead {
+
+    text-align: center;
+    height: 50px;
+    color:darkseagreen;
+
+
+}
+
+#list>li {
+
+    display: inline;
+    margin: 10px;
+    margin-left: 10px;
+
+}
+
+
+
+
+html {
+
+
+    height: auto;
+    width: auto;
+    background-color: white;
+
+
+}
