@@ -1,2 +1,3 @@
 # My-Music-Store
 My Music Store (HomeWork HTML+CSS) 
+BU PROJE PATİKA.DEV İÇİN ÖDEV OLARAK YAPILMIŞTIR. İÇİNDEKİ BİLGİLERİN DOĞRULUĞU SORGULANAMAZ :)
